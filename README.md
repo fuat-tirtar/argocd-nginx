@@ -1,1 +1,1 @@
-# argocd-project
+# argocd-nginx
