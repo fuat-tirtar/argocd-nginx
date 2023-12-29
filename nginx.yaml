@@ -15,5 +15,5 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: nginx:lates
+      - image: nginx:latest
         name: nginx
